@@ -8,3 +8,8 @@ layout: page
 permalink: http://localhost/wordpress/review/
 published: true
 ---
+[show_reviews product_id="193"]
+
+[show_reviews product_id="192"]
+
+[show_reviews product_id="187"]
