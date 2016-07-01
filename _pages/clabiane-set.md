@@ -9,4 +9,4 @@ permalink: http://localhost/wordpress/clabiane-set/
 published: true
 ---
 <div id="page_top_best_items">
-[products ids="1, 2, 3, 4, 5"]</div>
+[products ids="192,193, 187, 181"]</div>
