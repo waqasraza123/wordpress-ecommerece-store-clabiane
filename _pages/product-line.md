@@ -1,0 +1,30 @@
+---
+ID: 156
+post_title: PRODUCT LINE
+author: waqas
+post_date: 2016-06-30 23:43:28
+post_excerpt: ""
+layout: page
+permalink: http://localhost/wordpress/product-line/
+published: true
+panels_data:
+  - 'a:3:{s:7:"widgets";a:1:{i:0;a:4:{s:5:"title";s:0:"";s:4:"text";s:31:"[products ids="86, 90, 58, 64"]";s:11:"panels_info";a:6:{s:5:"class";s:14:"WP_Widget_Text";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"3494a0e9-b70b-4df8-b400-c6731a32518b";s:5:"style";a:3:{s:5:"class";s:22:"product_line_best_item";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}s:6:"filter";b:0;}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:1:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}}}'
+---
+<ul class="products">
+<li class="post-86 type-product status-publish has-post-thumbnail product_cat-mask first instock featured shipping-taxable purchasable product-type-simple">
+<a href="http://localhost/wordpress/product/pga-aqua-mask/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://localhost/wordpress/wp-content/uploads/2016/06/46_shop1_527621-300x300.png" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="46_shop1_527621" title="46_shop1_527621" srcset="http://localhost/wordpress/wp-content/uploads/2016/06/46_shop1_527621-300x300.png 300w, http://localhost/wordpress/wp-content/uploads/2016/06/46_shop1_527621-150x150.png 150w, http://localhost/wordpress/wp-content/uploads/2016/06/46_shop1_527621-180x180.png 180w, http://localhost/wordpress/wp-content/uploads/2016/06/46_shop1_527621.png 500w" sizes="(max-width: 300px) 100vw, 300px"><h3>PGA Aqua-Mask</h3>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>36.00</span></span>
+</a><a rel="nofollow" href="/wordpress/wp-admin/admin-ajax.php?_panelsnonce=4637b021ea&amp;add-to-cart=86" data-quantity="1" data-product_id="86" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+<li class="post-90 type-product status-publish has-post-thumbnail product_cat-mask  instock shipping-taxable purchasable product-type-simple">
+<a href="http://localhost/wordpress/product/platinum-snail-aqua-gel-mask/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://localhost/wordpress/wp-content/uploads/2016/06/44_shop1_615388-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="44_shop1_615388" title="44_shop1_615388" srcset="http://localhost/wordpress/wp-content/uploads/2016/06/44_shop1_615388-300x300.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/06/44_shop1_615388-150x150.jpg 150w, http://localhost/wordpress/wp-content/uploads/2016/06/44_shop1_615388-180x180.jpg 180w, http://localhost/wordpress/wp-content/uploads/2016/06/44_shop1_615388.jpg 500w" sizes="(max-width: 300px) 100vw, 300px"><h3>Platinum snail Aqua Gel Mask</h3>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>24.00</span></span>
+</a><a rel="nofollow" href="/wordpress/wp-admin/admin-ajax.php?_panelsnonce=4637b021ea&amp;add-to-cart=90" data-quantity="1" data-product_id="90" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+<li class="post-58 type-product status-publish has-post-thumbnail product_cat-serum-ampoule  instock shipping-taxable purchasable product-type-simple">
+<a href="http://localhost/wordpress/product/v-line-brightening-ampoule-2/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://localhost/wordpress/wp-content/uploads/2016/06/38_shop1_476213-1-300x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="38_shop1_476213 (1)" title="38_shop1_476213 (1)" srcset="http://localhost/wordpress/wp-content/uploads/2016/06/38_shop1_476213-1-300x300.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/06/38_shop1_476213-1-150x150.jpg 150w, http://localhost/wordpress/wp-content/uploads/2016/06/38_shop1_476213-1-180x180.jpg 180w, http://localhost/wordpress/wp-content/uploads/2016/06/38_shop1_476213-1.jpg 500w" sizes="(max-width: 300px) 100vw, 300px"><h3>V-LINE – Brightening Ampoule</h3>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>160.00</span></span>
+</a><a rel="nofollow" href="/wordpress/wp-admin/admin-ajax.php?_panelsnonce=4637b021ea&amp;add-to-cart=58" data-quantity="1" data-product_id="58" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+<li class="post-64 type-product status-publish has-post-thumbnail product_cat-cream last instock featured shipping-taxable purchasable product-type-simple">
+<a href="http://localhost/wordpress/product/v-line-intensive-eye-cream/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="http://localhost/wordpress/wp-content/uploads/2016/06/37_shop1_283474-300x300.png" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="37_shop1_283474" title="37_shop1_283474" srcset="http://localhost/wordpress/wp-content/uploads/2016/06/37_shop1_283474-300x300.png 300w, http://localhost/wordpress/wp-content/uploads/2016/06/37_shop1_283474-150x150.png 150w, http://localhost/wordpress/wp-content/uploads/2016/06/37_shop1_283474-180x180.png 180w, http://localhost/wordpress/wp-content/uploads/2016/06/37_shop1_283474.png 500w" sizes="(max-width: 300px) 100vw, 300px"><h3>V-LINE – Intensive Eye Cream</h3>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>52.00</span></span>
+</a><a rel="nofollow" href="/wordpress/wp-admin/admin-ajax.php?_panelsnonce=4637b021ea&amp;add-to-cart=64" data-quantity="1" data-product_id="64" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></li>
+</ul>
