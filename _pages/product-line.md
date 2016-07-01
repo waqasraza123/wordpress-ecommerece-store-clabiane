@@ -8,10 +8,10 @@ layout: page
 permalink: http://localhost/wordpress/product-line/
 published: true
 ---
-[one_fourth][products ids="86"][/one_fourth]
+<div id="page_top_best_items">[one_fourth][products ids="86"][/one_fourth]
 
 [one_fourth][products ids="90"][/one_fourth]
 
 [one_fourth][products ids="58"][/one_fourth]
 
-[one_fourth_last][products ids="64"][/one_fourth_last]
+[one_fourth_last][products ids="64"][/one_fourth_last]</div>
