@@ -8,3 +8,4 @@ layout: page
 permalink: http://localhost/wordpress/login/
 published: true
 ---
+[lsphe-login-form]
